@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace ATA.Windows;
+namespace ATA.Windows.MessageBox;
 
 public class MessageBox
 {
