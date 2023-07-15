@@ -1,0 +1,8 @@
+﻿**/bin
+**/obj
+**/.vs
+**/.idea
+**/*.png
+**/*.ico
+**/Properties/PublishProfiles
+*.user
